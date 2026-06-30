@@ -29,6 +29,9 @@ This project extends the NestJS starter and provides a real-world backend system
 
 ---
 
+## 📖 Swagger Docs
+- /docs
+
 ## 🔑 Auth
 
 ### Login
@@ -66,7 +69,7 @@ This project extends the NestJS starter and provides a real-world backend system
 PORT=3000
 
 DB_HOST=localhost
-DB_PORT=3306
+DB_PORT=3306V
 DB_USERNAME=admin
 DB_PASSWORD=your_password
 DB_DATABASE=open_claw
