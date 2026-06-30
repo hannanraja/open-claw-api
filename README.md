@@ -15,6 +15,7 @@ This project extends the NestJS starter and provides a real-world backend system
 - JWT authentication
 - Scope-based authorization
 - Docker support
+- Audit Logging (tracks API requests, responses, errors for monitoring & debugging)
 
 ---
 
