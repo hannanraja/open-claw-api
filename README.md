@@ -38,13 +38,7 @@ This project extends the NestJS starter and provides a real-world backend system
 ### Login
 - `POST /auth/login`
 
-### Register
-- `POST /auth/register`
 
-### Get Profile
-- `GET /auth/profile`
-
----
 
 ## 📡 API Endpoints
 
